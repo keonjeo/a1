@@ -1,12 +1,12 @@
 [package]
 name = "a1"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Keon Ye <jnuyeyizhou@gmail.com>"]
 edition = "2018"
 license = "MIT"
 homepage = "https://www.tetraceratops.com"
-repository = "https://github.com/keonjoe/a1"
+repository = "https://github.com/keonjeo/a1"
 documentation = "https://www.tetraceratops.com/docs"
-description = """This is a test crate"""
+description = """This is a test crate. Thanks for coming my homepage."""
 
 [dependencies]
